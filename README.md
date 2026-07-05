@@ -847,14 +847,13 @@ If you like my projects, consider giving them a ⭐ and following my GitHub prof
 
 # 🐍 Contribution Snake
 
+
+
+> **Enable this after creating the GitHub Actions workflow.**
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrKing-ux/MrKing-ux/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrKing-ux/MrKing-ux/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/MrKing-ux/MrKing-ux/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
----
+<img src="https://raw.githubusercontent.com/MrKing-ux/MrKing-ux/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p> 
 
 # 👀 Visitor Counter
 
