@@ -4,9 +4,9 @@
      GitHub: https://github.com/MrKing-ux
 =========================================================== -->
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+M+J+Manju+Darshan;🤖+AI+%26+Machine+Learning+Intern;💻+Full+Stack+Developer;🚀+Research+Author;Welcome+to+my+GitHub!" />
-</p>
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hello+👋+I'm+M+J+Manju+Darshan;AI+%26+Machine+Learning+Intern;Full+Stack+Developer;Software+Developer;Research+Paper+Author;Welcome+to+my+GitHub+Profile!" />
+</h1>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MrKing-ux&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
