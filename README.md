@@ -657,9 +657,8 @@ Alongside software development, I have a strong interest in **Quality Assurance*
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MrKing-ux&theme=tokyonight&no-frame=true&row=2&column=4"/>
+  <img src="https://github-trophies.vercel.app/?username=MrKing-ux&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
-
 ---
 
 # 💻 Coding Activity
@@ -848,14 +847,13 @@ If you like my projects, consider giving them a ⭐ and following my GitHub prof
 
 # 🐍 Contribution Snake
 
-> **Enable this after creating the GitHub Actions workflow.**
-
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/MrKing-ux/MrKing-ux/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrKing-ux/MrKing-ux/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrKing-ux/MrKing-ux/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/MrKing-ux/MrKing-ux/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
 ---
 
 # 👀 Visitor Counter
@@ -871,11 +869,8 @@ If you like my projects, consider giving them a ⭐ and following my GitHub prof
 # 💖 Thanks for Visiting
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+amazing+together!;Happy+Coding!+🚀"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub%21;Let%27s+build+something+amazing+together%21;Happy+Coding%21+%F0%9F%9A%80" />
 </p>
-
 ---
 
 <div align="center">
