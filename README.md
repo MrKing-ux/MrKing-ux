@@ -353,3 +353,281 @@ Alongside software development, I have a strong interest in **Quality Assurance*
 > To build innovative, scalable, and AI-driven software solutions while continuously enhancing my expertise in Full Stack Development, Machine Learning, Quality Assurance, and Software Engineering. I am passionate about creating technology that delivers real-world impact and exceptional user experiences.
 
 ---
+# 🚀 Featured Projects
+
+## 🌍 Employee Geo-Attendance Management System
+
+> **Tech Stack:** React • Supabase • GitHub
+
+### Features
+
+- 📍 Geo-location based attendance
+- 📷 Photo verification
+- 👨‍💼 Employee dashboard
+- 📊 Attendance analytics
+- 📅 Attendance reports
+- 🔒 Secure authentication
+- ⚡ Real-time attendance validation
+
+**Skills Applied**
+
+`React` `Supabase` `GitHub` `REST API` `Database Design`
+
+---
+
+## 🤖 AI-Assisted Spine X-Ray Analysis
+
+> **Tech Stack:** Python • YOLOv8 • Computer Vision
+
+### Highlights
+
+- 🩻 Automated scoliosis detection
+- 📈 90%+ model accuracy
+- 🤖 AI-assisted diagnosis
+- 🔬 Computer Vision
+- 📊 Medical Image Analysis
+- 📑 Automated reporting
+
+**Skills Applied**
+
+`Python`
+
+`YOLOv8`
+
+`Machine Learning`
+
+`Computer Vision`
+
+`OpenCV`
+
+---
+
+## 🛒 E-Commerce Management System
+
+> **Tech Stack:** Spring Boot • JavaScript • MySQL
+
+### Features
+
+- User Authentication
+- Shopping Cart
+- Checkout System
+- Product Management
+- Database Integration
+- Order Management
+
+---
+
+## 🩸 Blood Bank Donor Management System
+
+> **Tech Stack:** PHP • MySQL
+
+### Features
+
+- Donor Registration
+- Blood Inventory
+- Blood Requests
+- Admin Dashboard
+- Database Management
+
+---
+
+# 📂 Repository Categories
+
+```text
+📁 Artificial Intelligence
+
+📁 Machine Learning
+
+📁 Computer Vision
+
+📁 Full Stack Development
+
+📁 Java Projects
+
+📁 Python Projects
+
+📁 SQL Projects
+
+📁 Spring Boot
+
+📁 React Projects
+
+📁 PHP Projects
+
+📁 QA Testing
+
+📁 Software Engineering
+
+📁 Academic Projects
+
+📁 Research Projects
+
+📁 Open Source
+```
+
+---
+
+# 💡 Technical Expertise
+
+## 🤖 Artificial Intelligence
+
+✔ Machine Learning
+
+✔ Deep Learning
+
+✔ Computer Vision
+
+✔ Image Processing
+
+✔ Model Evaluation
+
+✔ Data Preprocessing
+
+✔ Object Detection
+
+✔ AI Automation
+
+---
+
+## 🌐 Full Stack Development
+
+✔ React
+
+✔ Spring Boot
+
+✔ REST APIs
+
+✔ Authentication
+
+✔ Backend Development
+
+✔ Database Design
+
+✔ CRUD Applications
+
+✔ API Integration
+
+---
+
+## 🧪 Software Testing & QA
+
+✔ Manual Testing
+
+✔ Functional Testing
+
+✔ Regression Testing
+
+✔ Bug Reporting
+
+✔ Debugging
+
+✔ Software Validation
+
+✔ Test Execution
+
+✔ User Acceptance Testing
+
+✔ Quality Assurance
+
+---
+
+## 🗄 Database Technologies
+
+✔ MySQL
+
+✔ SQL
+
+✔ Supabase
+
+✔ Database Design
+
+✔ Query Optimization
+
+✔ Data Validation
+
+---
+
+## ⚙ Developer Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=django"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+</p>
+
+---
+
+# 📈 Skill Matrix
+
+| Category | Skills |
+|-----------|--------|
+| Programming | Java, Python, JavaScript, SQL, PHP |
+| Frontend | React, HTML, CSS |
+| Backend | Spring Boot, Django, REST APIs |
+| AI/ML | Machine Learning, YOLOv8, Computer Vision |
+| Database | MySQL, Supabase |
+| Tools | Git, GitHub, VS Code, Postman |
+| Testing | Manual Testing, QA, Functional Testing |
+| Soft Skills | Communication, Leadership, Problem Solving |
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+
+- Generative AI
+
+- Advanced Machine Learning
+
+- Deep Learning
+
+- Cloud Computing
+
+- Docker
+
+- Kubernetes
+
+- DevOps
+
+- AWS
+
+---
+
+# 🎯 2026 Goals
+
+✅ Contribute to Open Source
+
+✅ Publish More Research Papers
+
+✅ Build AI SaaS Products
+
+✅ Become an AI Engineer
+
+✅ Become a Full Stack Developer
+
+✅ Master Cloud Technologies
+
+✅ Secure a Software Engineer Role
+
+---
