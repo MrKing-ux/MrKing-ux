@@ -631,3 +631,265 @@ Alongside software development, I have a strong interest in **Quality Assurance*
 ✅ Secure a Software Engineer Role
 
 ---
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrKing-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKing-ux&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=MrKing-ux&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrKing-ux&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MrKing-ux&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# 💻 Coding Activity
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-★★★★★-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-★★★★★-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JavaScript-★★★★☆-yellow?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React-★★★★☆-61DAFB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MySQL-★★★★☆-4479A1?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📚 Areas of Interest
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+🩺 Healthcare AI
+
+👨‍💻 Software Engineering
+
+🌐 Full Stack Development
+
+☁️ Cloud Computing
+
+📊 Data Analytics
+
+🎮 Game Testing
+
+🧪 Software Testing
+
+🔒 Cyber Security
+
+---
+
+# 🌟 Open Source Goals
+
+- 🚀 Contribute to impactful open-source projects
+- 🤝 Collaborate with developers worldwide
+- 📚 Share reusable code and learning resources
+- 💡 Build AI-powered developer tools
+- 🌍 Create software that solves real-world problems
+
+---
+
+# 📅 Weekly Development Focus
+
+```text
+AI & Machine Learning      ████████████████████ 90%
+
+Full Stack Development     ██████████████████   85%
+
+Backend Development        █████████████████    80%
+
+Computer Vision            ███████████████      75%
+
+Software Testing           ██████████████       70%
+
+Open Source                ███████████          60%
+```
+
+---
+
+# 📖 Favorite Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,spring,django,mysql,git,github,postman,vscode"/>
+
+</p>
+
+---
+
+# 💬 Developer Quote
+
+> **"Technology is most powerful when it solves real-world problems and improves people's lives."**
+
+---
+
+# ⚡ Fun Facts
+
+- 🎮 Passionate about Game Testing and Rockstar Games
+- 🤖 Love building AI-powered applications
+- 📚 Research Paper Author
+- 💻 Enjoy solving coding challenges
+- 🌱 Always learning new technologies
+- 🚀 Interested in innovative software solutions
+
+---
+
+# 📊 Profile Summary
+
+| Metric | Status |
+|--------|--------|
+| 🎓 Education | MCA Student |
+| 💼 Experience | AI/ML Intern & Full Stack Intern |
+| 🤖 AI Projects | 2+ |
+| 🌐 Full Stack Projects | 4+ |
+| 📜 Certifications | 6+ |
+| 🏆 Research Publications | 1 |
+| 💻 Programming Languages | 5 |
+| 🛠 Tools | 10+ |
+
+---
+
+# 🎯 Looking For
+
+✅ Software Engineer Roles
+
+✅ AI Engineer Opportunities
+
+✅ Machine Learning Engineer Roles
+
+✅ Full Stack Developer Positions
+
+✅ Open Source Collaborations
+
+✅ Research Opportunities
+
+✅ Freelance Projects
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:manjudarshan8543@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/manju-darshan-a65ab32aa">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MrKing-ux">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Open to Opportunities
+
+<div align="center">
+
+| 💻 Role | ✅ Status |
+|---------|-----------|
+| Software Engineer | Open |
+| Full Stack Developer | Open |
+| AI / ML Engineer | Open |
+| Backend Developer | Open |
+| QA Engineer | Open |
+| Research Collaborations | Open |
+
+</div>
+
+---
+
+# 🌟 Support My Work
+
+If you like my projects, consider giving them a ⭐ and following my GitHub profile.
+
+<p align="center">
+
+<a href="https://github.com/MrKing-ux">
+<img src="https://img.shields.io/github/followers/MrKing-ux?label=Follow&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/MrKing-ux?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-blue?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Enable this after creating the GitHub Actions workflow.**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/MrKing-ux/MrKing-ux/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</p>
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MrKing-ux&label=Visitors&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💖 Thanks for Visiting
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+amazing+together!;Happy+Coding!+🚀"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🌟 *"Code with passion, learn with curiosity, and build solutions that make a difference."*
+
+<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Built%20by-M%20J%20Manju%20Darshan-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GitHub-MrKing--ux-black?style=for-the-badge&logo=github"/>
+
+</div>
+
+---
