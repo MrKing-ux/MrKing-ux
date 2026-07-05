@@ -633,8 +633,7 @@ Alongside software development, I have a strong interest in **Quality Assurance*
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=MrKing-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=MrKing-ux&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrKing-ux&theme=tokyonight"/>
 </p>
 
 ---
