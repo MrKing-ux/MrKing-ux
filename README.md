@@ -202,3 +202,154 @@ Alongside software development, I have a strong interest in **Quality Assurance*
 - 🚀 Open Source Contributions
 
 ---
+# 💼 Professional Experience
+
+## 🚀 AI & Machine Learning Intern | Infosys Springboard 7.0
+
+**Duration:** 2026
+
+### Responsibilities
+
+- 🤖 Worked on Artificial Intelligence & Machine Learning concepts
+- 📊 Performed dataset preprocessing and analysis
+- 📈 Evaluated ML model performance and accuracy
+- 🧪 Conducted testing and validation on AI outputs
+- 🔍 Applied structured problem-solving approaches
+- 📚 Gained practical exposure to real-world AI workflows
+
+**Technologies Used**
+
+`Python` `Machine Learning` `Data Analysis` `Model Evaluation`
+
+---
+
+## 💻 Full Stack Developer Intern | SCONTI Technologies
+
+### Responsibilities
+
+- Developed backend modules
+- Participated in application testing
+- Database validation and verification
+- Functional testing
+- Bug identification
+- Debugging software issues
+- Improved application stability
+- Collaborated using Git & GitHub
+- Assisted in deployment and maintenance
+
+**Technologies Used**
+
+`Java` `React` `MySQL` `Git` `GitHub` `Postman`
+
+---
+
+# 🎓 Education
+
+| Degree | Institution | Duration |
+|---------|------------|----------|
+| 🎓 Master of Computer Applications (MCA) | SBRR Mahajana First Grade College (Autonomous), Mysore | 2024 - 2026 |
+| 🎓 Bachelor of Computer Applications (BCA) | Sri K Puttaswamy First Grade College | 2021 - 2024 |
+
+---
+
+# 📜 Certifications
+
+<p>
+
+<img src="https://img.shields.io/badge/Software_Engineering-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Analytics-007ACC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Postman_API-FE7A16?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full_Stack_Python-green?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏅 Research Paper Accepted
+
+🏅 90%+ Accuracy in AI Projects
+
+🏅 Successfully completed Infosys Springboard AI & ML Internship
+
+🏅 Developed multiple Full Stack Applications
+
+🏅 Built AI-powered Healthcare Solutions
+
+🏅 Experience in QA & Software Testing
+
+🏅 Strong understanding of SDLC
+
+🏅 Practical exposure to AI, ML & Computer Vision
+
+---
+
+# 📚 Research Publication
+
+## 📝 AI-Assisted Spine X-Ray Analysis for Early Scoliosis Diagnosis Using YOLOv8-Based Object Detection and Automated Cobb Angle Estimation
+
+### Publication Highlights
+
+- 📄 Accepted after Peer Review
+- 🤖 Artificial Intelligence in Healthcare
+- 🩻 Automated Spine Analysis
+- 📊 Computer Vision Based Detection
+- 📈 90%+ Prediction Accuracy
+- 🔬 Machine Learning Powered Diagnosis
+
+---
+
+# 🌟 Professional Timeline
+
+```text
+2021
+│
+├── Started Bachelor of Computer Applications
+│
+2022
+│
+├── Learned Java
+├── Learned Python
+├── SQL
+│
+2023
+│
+├── Web Development
+├── Database Development
+├── Software Projects
+│
+2024
+│
+├── Graduated BCA
+├── Started MCA
+├── Full Stack Development
+│
+2025
+│
+├── AI Projects
+├── Machine Learning
+├── Research Publication
+│
+2026
+│
+├── Infosys Springboard AI & ML Internship
+├── Employee Geo Attendance System
+├── AI Spine X-Ray Analysis
+└── Open to Software Engineering Opportunities
+```
+
+---
+
+# 🎯 Career Objective
+
+> To build innovative, scalable, and AI-driven software solutions while continuously enhancing my expertise in Full Stack Development, Machine Learning, Quality Assurance, and Software Engineering. I am passionate about creating technology that delivers real-world impact and exceptional user experiences.
+
+---
