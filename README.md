@@ -3,9 +3,8 @@
      Author: M J Manju Darshan
      GitHub: https://github.com/MrKing-ux
 =========================================================== -->
-
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hello+👋+I'm+M+J+Manju+Darshan;AI+%26+Machine+Learning+Intern;Full+Stack+Developer;Software+Developer;Research+Paper+Author;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hello+%F0%9F%91%8B+I%27m+M+J+Manju+Darshan;AI+%26+Machine+Learning+Intern;Full+Stack+Developer;Software+Developer;Research+Paper+Author;Welcome+to+my+GitHub+Profile%21" />
 </h1>
 
 <p align="center">
